@@ -1,6 +1,6 @@
 // Code your solution in this file!
 function distanceFromHqInBlocks(location) {
-  location - 42
+  return location - 42
 }
 
 function distanceFromHqInFeet(feet) {
