@@ -7,6 +7,6 @@ function distanceFromHqInFeet(location) {
   return distanceFromHqInBlocks(location) * 264
 }
 
-function calculatesFarePrice(start, destination) {
-
+function distanceTravelledInFeet(starting, ending) {
+  return Math.abs(starting - ending)
 }
